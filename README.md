@@ -18,7 +18,7 @@ This series will focus on exercises and practical computing on selected topics f
 
 ## Workshop Materials
 
-* [Intermediate R skills]()
+* [Intermediate R skills](https://github.com/McGill-MiCM/MiCM2023-IntermediateRSkills)
 * [Epigenomics (ChIPseq)](https://github.com/McGill-MiCM/MiCM_ChIP_seq/)
 * [Intermediate Python Skills](https://github.com/McGill-MiCM/micm_intermediate_python_fall_2023)
 * [Introduction to Convolutional Neural Networks](https://github.com/McGill-MiCM/MiCM-Fall23_Intro-to-CNNs)
