@@ -13,16 +13,16 @@ This series will focus on exercises and practical computing on selected topics f
 | Epigenomics (ChIPseq) | Oct 25th | 9:00am-1:00pm | Ariel Madrigal | In-person | Closed |
 | Intermediate Python Skills | Oct 31st | 1:00-5:00pm | Benjamin Rudski | In-person | Closed |
 | Introduction to Convolutional Neural Networks | Nov 6th | 1:00-5:00pm | Tugce Gurbuz | In-person | Closed |
-| Molecular Simulations in Python | Nov 13th | 1:00-5:00pm | Meghana Munipalle | In-person | Open |
-| Intro to MATLAB for Image Analysis | Nov 29th | 9:00am-1:00pm | Rodrigo Mireles Ramirez | In-person | Open |
+| Molecular Simulations in Python | Nov 13th | 1:00-5:00pm | Meghana Munipalle | In-person | Closed |
+| Intro to MATLAB for Image Analysis | Nov 29th | 9:00am-1:00pm | Rodrigo Mireles Ramirez | In-person | Closed |
 
 ## Workshop Materials
 
-* [Intermediate R skills](https://github.com/McGill-MiCM/micm-statistics-winter)
-* [Epigenomics (ChIPseq)](https://github.com/McGill-MiCM/Statistical_Analysis_2023)
-* [Intermediate Python Skills](https://github.com/McGill-MiCM/MiMC_scRNAseqWorkshop)
-* [Introduction to Convolutional Neural Networks]()
-* [Molecular Simulations in Python]()
+* [Intermediate R skills]()
+* [Epigenomics (ChIPseq)](https://github.com/McGill-MiCM/MiCM_ChIP_seq/)
+* [Intermediate Python Skills](https://github.com/McGill-MiCM/micm_intermediate_python_fall_2023)
+* [Introduction to Convolutional Neural Networks](https://github.com/McGill-MiCM/MiCM-Fall23_Intro-to-CNNs)
+* [Molecular Simulations in Python](https://github.com/McGill-MiCM/micm-f23-molsim-python)
 * [Intro to MATLAB for Image Analysis]()
 
 #### See [past workshop material](https://mcgill-micm.github.io/MicM-Mcgill/)
