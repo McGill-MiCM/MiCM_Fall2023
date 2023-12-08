@@ -23,7 +23,7 @@ This series will focus on exercises and practical computing on selected topics f
 * [Intermediate Python Skills](https://github.com/McGill-MiCM/micm_intermediate_python_fall_2023)
 * [Introduction to Convolutional Neural Networks](https://github.com/McGill-MiCM/MiCM-Fall23_Intro-to-CNNs)
 * [Molecular Simulations in Python](https://github.com/McGill-MiCM/micm-f23-molsim-python)
-* [Intro to MATLAB for Image Analysis]()
+* [Intro to MATLAB for Image Analysis](https://github.com/McGill-MiCM/MiCM-2023-Intro-to-MATLAB)
 
 #### See [past workshop material](https://mcgill-micm.github.io/MicM-Mcgill/)
 #### Interested in proposing a new workshop? Email us at workshop-micm@mcgill.ca.
